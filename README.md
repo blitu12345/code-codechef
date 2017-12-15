@@ -1,2 +1,2 @@
 # code-codechef
-Contains my codechef code.
+Contains my [CodeChef](www.codechef.com/) code.
